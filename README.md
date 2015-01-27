@@ -1,2 +1,2 @@
-# PlanOutLab
-Experiments in PlanOut
+# PlanOut Lab
+Repo for my PlanOut related experiments
