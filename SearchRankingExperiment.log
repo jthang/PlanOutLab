@@ -6021,3 +6021,8 @@
 {"inputs": {"sessionid": 2, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v100", "candidate_model": "v100"}, "time": 1422541473, "salt": "SearchRankingExperiment", "event": "exposure"}
 {"inputs": {"sessionid": 3, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v0", "candidate_model": "v100"}, "time": 1422541473, "salt": "SearchRankingExperiment", "event": "exposure"}
 {"inputs": {"sessionid": 4, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v0", "candidate_model": "v100"}, "time": 1422541473, "salt": "SearchRankingExperiment", "event": "exposure"}
+{"inputs": {"sessionid": 0, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v100", "candidate_model": "v100"}, "time": 1422546802, "salt": "SearchRankingExperiment", "event": "exposure"}
+{"inputs": {"sessionid": 1, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v100", "candidate_model": "v100"}, "time": 1422546802, "salt": "SearchRankingExperiment", "event": "exposure"}
+{"inputs": {"sessionid": 2, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v100", "candidate_model": "v100"}, "time": 1422546802, "salt": "SearchRankingExperiment", "event": "exposure"}
+{"inputs": {"sessionid": 3, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v0", "candidate_model": "v100"}, "time": 1422546802, "salt": "SearchRankingExperiment", "event": "exposure"}
+{"inputs": {"sessionid": 4, "userid": 6}, "name": "SearchRankingExperiment", "params": {"ranking_model": "v0", "candidate_model": "v100"}, "time": 1422546802, "salt": "SearchRankingExperiment", "event": "exposure"}
