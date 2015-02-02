@@ -18,3 +18,8 @@
 {"inputs": {"userid": 14}, "name": "banner-v1-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422797759, "salt": "banner.v1 phase1", "event": "exposure"}
 {"inputs": {"userid": 15}, "name": "banner-v1-phase1", "params": {"banner_text": "Welcome!"}, "time": 1422797759, "salt": "banner.v1 phase1", "event": "exposure"}
 {"inputs": {"userid": 16}, "name": "banner-v1-phase1", "params": {"banner_text": "Welcome!"}, "time": 1422797759, "salt": "banner.v1 phase1", "event": "exposure"}
+{"inputs": {"userid": 11}, "name": "banner-v1-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851155, "salt": "banner.v1 phase1", "event": "exposure"}
+{"inputs": {"userid": 12}, "name": "banner-v1-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851155, "salt": "banner.v1 phase1", "event": "exposure"}
+{"inputs": {"userid": 14}, "name": "banner-v1-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851155, "salt": "banner.v1 phase1", "event": "exposure"}
+{"inputs": {"userid": 15}, "name": "banner-v1-phase1", "params": {"banner_text": "Welcome!"}, "time": 1422851155, "salt": "banner.v1 phase1", "event": "exposure"}
+{"inputs": {"userid": 16}, "name": "banner-v1-phase1", "params": {"banner_text": "Welcome!"}, "time": 1422851155, "salt": "banner.v1 phase1", "event": "exposure"}

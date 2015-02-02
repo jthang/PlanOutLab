@@ -38,3 +38,10 @@
 {"inputs": {"userid": 6}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422797759, "salt": "banner.v2 phase1", "event": "exposure"}
 {"inputs": {"userid": 18}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422797759, "salt": "banner.v2 phase1", "event": "exposure"}
 {"inputs": {"userid": 19}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422797759, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 6}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851154, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 1}, "name": "banner-v2-phase1", "params": {"banner_text": "Welcome!"}, "time": 1422851154, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 2}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851154, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 3}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851154, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 6}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851154, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 18}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851155, "salt": "banner.v2 phase1", "event": "exposure"}
+{"inputs": {"userid": 19}, "name": "banner-v2-phase1", "params": {"banner_text": "Hello there!"}, "time": 1422851155, "salt": "banner.v2 phase1", "event": "exposure"}
