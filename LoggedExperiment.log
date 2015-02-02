@@ -10,3 +10,5 @@
 {"inputs": {"userid": 4}, "name": "LoggedExperiment", "params": {"y": 1, "x": "Sentence 2"}, "time": 1422797757, "salt": "LoggedExperiment", "event": "exposure"}
 {"inputs": {"userid": 3}, "name": "LoggedExperiment", "params": {"y": 0, "x": "Sentence 1"}, "time": 1422797779, "salt": "LoggedExperiment", "event": "exposure"}
 {"inputs": {"userid": 4}, "name": "LoggedExperiment", "params": {"y": 1, "x": "Sentence 2"}, "time": 1422797779, "salt": "LoggedExperiment", "event": "exposure"}
+{"inputs": {"userid": 3}, "name": "LoggedExperiment", "params": {"y": 0, "x": "Sentence 1"}, "time": 1422851152, "salt": "LoggedExperiment", "event": "exposure"}
+{"inputs": {"userid": 4}, "name": "LoggedExperiment", "params": {"y": 1, "x": "Sentence 2"}, "time": 1422851152, "salt": "LoggedExperiment", "event": "exposure"}
